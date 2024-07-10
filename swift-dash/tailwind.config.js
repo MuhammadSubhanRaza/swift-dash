@@ -16,6 +16,8 @@ module.exports = {
           900:"rgba(132, 108, 249,0.9)",
           950:"rgba(132, 108, 249,1)"
         },
+        secondary:"#653BF1",
+        primary_light:"#BBB3FD",
         ground:"#EEF1F9"
       }
     },
